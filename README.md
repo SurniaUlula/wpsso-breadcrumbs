@@ -3,7 +3,7 @@
 <table>
 <tr><th align="right" valign="top" nowrap>Plugin Name</th><td>WPSSO Schema Breadcrumbs Markup</td></tr>
 <tr><th align="right" valign="top" nowrap>Summary</th><td>Schema BreadcrumbList markup with JSON-LD structured data for better Google Rich Results.</td></tr>
-<tr><th align="right" valign="top" nowrap>Stable Version</th><td>3.4.0</td></tr>
+<tr><th align="right" valign="top" nowrap>Stable Version</th><td>3.4.1</td></tr>
 <tr><th align="right" valign="top" nowrap>Requires PHP</th><td>7.0 or newer</td></tr>
 <tr><th align="right" valign="top" nowrap>Requires WordPress</th><td>4.5 or newer</td></tr>
 <tr><th align="right" valign="top" nowrap>Tested Up To WordPress</th><td>5.6.2</td></tr>
